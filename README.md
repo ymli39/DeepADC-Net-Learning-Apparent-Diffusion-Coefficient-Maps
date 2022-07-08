@@ -64,6 +64,7 @@ CUDA_VISIBLE_DEVICES=0 python test_adc.py
 
 
 ## Reference:
+[Paper](https://arxiv.org/abs/2207.02399/)
 ```
 @article{li2021acenet,
   title={Learning Apparent Diffusion Coefficient Maps from Undersampled Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model in Conjunction with a Monoexponential Model},
