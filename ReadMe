@@ -1,4 +1,3 @@
-
 Learning Apparent Diffusion Coefficient Maps from Undersampled Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model in Conjunction with a Monoexponential Model
 
 
@@ -57,7 +56,7 @@ CUDA_VISIBLE_DEVICES=0 python validate_adc_mask.py
 For running the validation with strategy 2, use:
 CUDA_VISIBLE_DEVICES=0 python validate_adc.py
 
-
+------------------------------------------------------------------------------------------------
 ## Testing:
 For runnning the testing, with strategy 2, use:
 CUDA_VISIBLE_DEVICES=0 python test_adc.py
