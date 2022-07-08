@@ -1,7 +1,6 @@
 Learning Apparent Diffusion Coefficient Maps from Undersampled Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model in Conjunction with a Monoexponential Model
 
 
-
 ## Preparation
 This research provides two strategies to train the CNN for generating high-quality ADC maps:
 1. With masks generated from fully-sampled ADC scans
