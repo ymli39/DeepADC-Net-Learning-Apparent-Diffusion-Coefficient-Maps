@@ -1,4 +1,4 @@
-# Learning Apparent Diffusion Coefficient Maps from Undersampled Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model in Conjunction with a Monoexponential Model
+# Learning Apparent Diffusion Coefficient Maps from Accelerated Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Preparation
