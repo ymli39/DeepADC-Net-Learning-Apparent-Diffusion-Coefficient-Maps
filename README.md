@@ -69,12 +69,10 @@ CUDA_VISIBLE_DEVICES=0 python test_adc.py
 ## Reference:
 [Paper](https://arxiv.org/abs/2207.02399/)
 ```
-@article{Li2022LearningAM,
-  title={Learning ADC maps from accelerated radial k-space diffusion-weighted MRI in mice using a deep CNN-transformer model.},
-  author={Yuemeng Li and Miguel Romanello Giroud Joaquim and Stephen Pickup and Hee Kwon Song and Rongchao Zhou and Yong-Xian Fan},
-  journal={Magnetic resonance in medicine},
-  year={2022},
-  url={https://api.semanticscholar.org/CorpusID:260379229}
+@article{lilearning,
+  title={Learning ADC maps from accelerated radial k-space diffusion-weighted MRI in mice using a deep CNN-transformer model},
+  author={Li, Yuemeng and Joaquim, Miguel Romanello and Pickup, Stephen and Song, Hee Kwon and Zhou, Rong and Fan, Yong},
+  journal={Magnetic resonance in medicine}
 }
 ```
 
