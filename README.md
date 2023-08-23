@@ -1,4 +1,4 @@
-# Learning Apparent Diffusion Coefficient Maps from Accelerated Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model
+# Learning ADC maps from accelerated radial k-space diffusion-weighted MRI in mice using a deep CNN-transformer model
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Preparation
